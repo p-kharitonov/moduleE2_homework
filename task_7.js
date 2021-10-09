@@ -17,5 +17,5 @@ arr.forEach(function(item, index, array) {
 	}
 });
 console.log("Четных: " + countEven);
-console.log("Не четных: " + countOdd);
+console.log("Нечетных: " + countOdd);
 console.log("Нулей: " + countZero);
